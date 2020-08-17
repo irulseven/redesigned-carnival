@@ -1,0 +1,31 @@
+
+/* secntion */
+section {
+    min-height: 500px;
+}
+/* End section */
+
+/* Header */
+.jumbotron h2 {
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.jumbotron p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* End Header */
+
+/* About */
+.about p {
+    line-height: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* End About */
+
+/* Contact */
+.contact {
+    min-height:50px;
+}
+/* End Contact */
